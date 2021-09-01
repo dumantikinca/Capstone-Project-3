@@ -9,41 +9,41 @@ The program is designed to assist a small business in managing tasks assigned to
 ### Functionality
 
 #### Admin user:
-* Login with valid user specific username and password
-* Register new user using user specific username that does not exist
-* Choose 'add task' menu option
+1. Login with valid user specific username and password
+2. Register new user using user specific username that does not exist
+3. Choose 'add task' menu option
   * assign the task to user
   * add a task name
   * add a task description
   * set the due date
-* Choose 'view my tasks' menu option
+4. Choose 'view my tasks' menu option
   * user can select task ID
   * user can edit the task if not yet complete; either change username or due date
   * user can mark the task as complete
-* Choose 'view all tasks' menu option
-* Choose 'generate reports' menu option  
+5. Choose 'view all tasks' menu option
+6. Choose 'generate reports' menu option  
   * generates both user and tasks reports
   * files generated from task_overview.txt and user_overview.txt
-* View statistics for 
+7. View statistics for 
    * total number of tasks
    * total number of users
    * task report data
    * user report data
-* Exit program
+8. Exit program
 
 #### All users:
-* Login with valid user specific username and password
-* Choose 'add task' menu option
+1. Login with valid user specific username and password
+2. Choose 'add task' menu option
   * assign the task to user
   * add a task name
   * add a task description
   * set the due date
-* Choose 'view my tasks' menu option
+3. Choose 'view my tasks' menu option
   * user can select task ID
   * user can edit the task if not yet complete; either change username or due date
   * user can mark the task as complete
-* Choose 'view all tasks' menu option
-* Exit program
+4. Choose 'view all tasks' menu option
+5. Exit program
 
 
 ### Contributors
