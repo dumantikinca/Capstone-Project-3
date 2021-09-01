@@ -31,7 +31,7 @@ The program is designed to assist a small business in managing tasks assigned to
     * user report data
 8. Exit program
 
-#### All users:
+#### General users:
 1. Login with valid user specific username and password
 2. Choose 'add task' menu option
    * assign the task to user
