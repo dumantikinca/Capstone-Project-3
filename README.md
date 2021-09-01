@@ -47,6 +47,5 @@ The program is designed to assist a small business in managing tasks assigned to
 
 
 ### Contributors
-* This program was worked on individually by myself to fulfill the sofware engineering bootcamp requirements. However, the helpful Hyperion Development mentors also reviewed and 
-commented on the program!
+This project was worked on individually by myself as a student and recieved help from Hishaam, my tutor.
 
